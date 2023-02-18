@@ -40,15 +40,15 @@ In order to control power, all we have to do is to control the timing between th
 The android application will be connected to the hardware via Bluetooth module, after the connection is established one will be able to adjust the bulb brightness. The microcontroller function will be reading the values received from the Bluetooth module and instruct the relay to turn on or off, also it is responsible to control the TRIAC hence varying the bulb intensity by changing the phase angle.
 
 ### Images of The Project
-![My Image1](/Images/Full-brightness.png)
+![My Image1](/Images/Full-brightness.jpg)
 
 #### Figure 1 Image of the bulb in full brightness
 
-![My Image2](/Images/Low-brightness.png)
+![My Image2](/Images/Low-brightness.jpg)
 
 #### Figure 2 Image of the bulb in Low brightness
 
-![My Image3](/Images/app.png)
+![My Image3](/Images/app.jpg)
 
 #### Figure 3 image of the android application
 
